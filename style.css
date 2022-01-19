@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+h1{
+	text-align: center;
+}
+
+.triangle{
+	width: 0;
+	height: 0;
+	margin: auto;
+	border-top: 100px solid transparent;
+	border-bottom: 100px solid transparent;
+	border-left: 250px solid green;
+
+
+}
+
+.triangle1{
+	width: 0;
+	height: 0;
+	margin: auto;
+	border-top: 100px solid transparent;
+	border-bottom: 100px solid red;
+	border-left: 250px solid transparent;
+}
+
+
+
+
+
+
